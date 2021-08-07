@@ -1,8 +1,5 @@
 # Overview
-base framework is taken from [Lodium](https://github.com/Loadium/postman2jmx)
-
-
-This code will convert any postman collection to jmx file. The JMX file can be used to run directly in Jmeter.
+This code will convert any postman collection to jmx file. The JMX file can be used to run directly in Jmeter. Base framework is taken from [Lodium](https://github.com/Loadium/postman2jmx)
 
 ## Features
 - Compatable with Jmeter 5.4.1
