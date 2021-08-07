@@ -2,12 +2,13 @@
 This code will convert any postman collection to jmx file. The JMX file can be used to run directly in Jmeter. Base framework is taken from [Lodium](https://github.com/Loadium/postman2jmx)
 
 ## Features
+- Best suited for quick conversion of performance script for microservices
+- Easy to adopt in devops squad with limited jmeter knowledge
 - Compatable with Jmeter 5.4.1
 - Auto-parameterization of thread group
-- Alert for exisitng parameters.
+- Alert for exisitng parameters
 - Default response Assertion for each request
 - Default delay of 100ms for each API
-- Best suited for quick conversion of performance script for microservices.
 
 ## To Build:
 
