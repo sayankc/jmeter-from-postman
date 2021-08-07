@@ -36,7 +36,7 @@ $ java -jar newman2jmeter-0.2.5-jar-with-dependencies.jar my_postman_collection.
 
 ## To Run:
 
-Generated script has parameters defiend for it's thread group (users, duration) so it can be executed in non-GUI mode directlyafter providing parameter values, if any . Here is the sample.
+Generated script has parameters defiend for it's thread group (users, duration). So, it can be executed in non-GUI mode directlyafter providing parameter values, if any . Here is the sample.
 
 ```
 jmeter -n -t my_jemter_file.jmx -l my_jemter_result.csv -Jusers=10 -Jduration=300
